@@ -1,0 +1,13 @@
+res://cs/CloseSChO.cs
+res://cs/Coin.cs
+res://cs/BtnTchO.cs
+res://cs/JnUp.cs
+res://cs/JnRight.cs
+res://cs/JnLeft.cs
+res://cs/BtnCloseJN.cs
+res://cs/TsLeftBtn.cs
+res://cs/TSRightBtn.cs
+res://cs/BtnJinNang.cs
+res://cs/CharacterBody2d.cs
+res://cs/ShouyeBtn.cs
+res://Scene/scene_1.tscn

@@ -1,0 +1,14 @@
+VBoxContainer
+Button
+CenterContainer
+HBoxContainer
+Label
+PanelContainer
+Panel
+CanvasLayer
+Camera2D
+AudioStreamPlayer2D
+CollisionShape2D
+AnimationPlayer
+AnimatedSprite2D
+Area2D
